@@ -1,0 +1,36 @@
+# depslib dependency file v1.0
+1629992450 source:e:\z school trabajos 2021\embebidos\ejercicios\menú\menú\main.cpp
+	<iostream>
+	<windows.h>
+	<time.h>
+	<stdlib.h>
+	<iomanip>
+
+1631368766 source:e:\z school trabajos 2021\embebidos\ejercicios\menu\main.cpp
+	<iostream>
+	<time.h>
+	<windows.h>
+	<stdlib.h>
+	<iomanip>
+
+1630613712 source:f:\z school trabajos 2021\embebidos\ejercicios\menu\main.cpp
+	<iostream>
+	<time.h>
+	<windows.h>
+	<stdlib.h>
+	<iomanip>
+
+1631368766 source:d:\z school trabajos 2021\embebidos\ejercicios\menu\main.cpp
+	<iostream>
+	<time.h>
+	<windows.h>
+	<stdlib.h>
+	<iomanip>
+
+1631368766 source:e:\z school trabajos 2021\embebidos\ejercicios\menu\c++\main.cpp
+	<iostream>
+	<time.h>
+	<windows.h>
+	<stdlib.h>
+	<iomanip>
+
